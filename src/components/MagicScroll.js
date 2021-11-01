@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Controller, Scene } from "react-scrollmagic";
-import { Tween, Timeline } from "react-gsap";
+import { Tween} from "react-gsap";
 import OnVisible from "react-on-visible";
 
 const TweenStyled = styled.div`

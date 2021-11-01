@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
 import ImageSlide from "./Image-Slide.js";
-import { Parallax } from "react-scroll-parallax";
 
 export default class SimpleSlider extends Component {
   render() {

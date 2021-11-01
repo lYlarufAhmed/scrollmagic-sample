@@ -1,10 +1,7 @@
 import React from "react";
-import classnames from "classnames";
+// import classnames from "classnames";
 
 class ArticleHero extends React.Component {
-  constructor(props) {
-    super(props);
-  }
 
   render() {
     return (
@@ -25,11 +22,8 @@ class ArticleHero extends React.Component {
             </div>
             <div className="w-full lg:w-6/12 text-left px-2 lg:px-10">
               <p className="p-5 pt-1 lg:pb-20 lg:pt-20">
-                Minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip ex ea commodo consequat. Duis aute irure dolor in
-                reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim.
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit. A dolore error excepturi illo inventore ipsum labore. Blanditiis consequatur dolore doloremque ipsa ipsum iste non quam soluta, suscipit ullam, veritatis vero?
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam commodi consequatur delectus eius laboriosam laborum libero magni minus modi neque obcaecati perspiciatis quae, quam quia quos saepe sequi voluptate voluptatum.
               </p>
             </div>
           </div>
